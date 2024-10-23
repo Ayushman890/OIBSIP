@@ -1,0 +1,6 @@
+<resources>
+    <string name="header"> Convert the unit</string>
+    <string name="enter_kg"> Enter the value in kg</string>
+    <string name="submit">submit</string>
+    <string name="gram"> Values in grams</string>
+</resources>
